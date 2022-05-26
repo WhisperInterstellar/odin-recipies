@@ -1,10 +1,7 @@
 # odin-recipies
 
-(Temporarily down, update:
-  I know the links are broken. I'm trying to figure out what I'm doinn
-  wrong so I can fix it.I knew this would happen if I moved the files,
-  but I don't know why it won't let me change the href quote and save
-  after. Thanks for your patience while I learn.)
+(We Have Images, update:
+  All images obtained via google. Zelda content belongs to Nintendo. Gif on index page posted to pinterest here https://pin.it/1VffoA4 . All png images found on recipie pages from fanwiki at https://zelda.fandom.com/wiki/Main_Page)
 
 This is a student project designed to demonstrate (and practice)
   all the skills I have learned so far, by using them. Specifically, I
