@@ -1,7 +1,9 @@
 # odin-recipies
 
 (We Have Images, update:
-  All images obtained via google. Zelda content belongs to Nintendo. Gif on index page posted to pinterest here https://pin.it/1VffoA4 . All png images found on recipie pages from fanwiki at https://zelda.fandom.com/wiki/Main_Page)
+  All images obtained via google. Zelda content belongs to Nintendo
+  Gif on index page posted to pinterest here https://pin.it/1VffoA4 .
+  All png images found on recipie pages from fanwiki at https://zelda.fandom.com/wiki/Main_Page)
 
 This is a student project designed to demonstrate (and practice)
   all the skills I have learned so far, by using them. Specifically, I
@@ -16,3 +18,8 @@ Personally, I also need to avoid getting ambitious out of a
   explain how to make sushi. I could be done by now instead, but I let 
   myself waste time being afraid I wasn't good enough. Come for the 
   career building skills, stay for the therapy, eh Odin-kin?
+  
+  Version
+    Bones: Complete
+    Skin: working
+    Muscles: future
