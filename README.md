@@ -20,6 +20,6 @@ Personally, I also need to avoid getting ambitious out of a
   career building skills, stay for the therapy, eh Odin-kin?
   
   Version
-    Bones: Complete
-    Skin: working
+    Bones: Complete,
+    Skin: working,
     Muscles: future
