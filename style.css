@@ -1,0 +1,18 @@
+body {
+    background-image: url(leaves.jpg) ;
+    background-color: #d0fbec;
+    color:#5d5d02;
+    font-family: "Alegreya Sans SC", Verdana, sans-serif ;
+}
+
+.hearts{
+    color: rgb(235, 156, 156);
+}
+
+p {
+text-align: center;
+}
+
+li {
+    color: olivedrab;
+   }
